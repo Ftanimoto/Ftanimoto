@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Ftanimoto.github.io
+# Felipe Tanimoto de Albuquerque
 
 ## Bem-vindo!
 
