@@ -1,6 +1,4 @@
-# Felipe Tanimoto de Albuquerque
-
-## Bem-vindo!
+# Bem-vindo!
 
 ### Portfólio em fase de desenvolvimento...
 <!--
