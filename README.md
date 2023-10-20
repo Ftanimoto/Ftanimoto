@@ -5,6 +5,10 @@
   Sou o Felipe 🦉, formado em Direito e no momento estou me graduando em Licenciatura em Violão pela ESMU/UEMG e sou um estudante do curso de desenvolvimento full-stack da Trybe. Eu poderia dizer que estou em transição de carreira mas a verdade é que eu também gosto muito das minhas outras áreas de formação e planejo focar nas tecnologias que buscam beneficiar as demandas das mesmas. Tive uma forte identificação com essa área de desenvolvimento de software e a vejo como um meio extremamente útil de transformar a vida das pessoas através da tecnologia. Se me perguntarem o motivo de minhas pretensões, direi que foi uma espécie de amor à primeira vista e que não sei exatamente porque tomei essa decisão, sinto apenas que foi a decisão certa. Resolvi baixar a guarda e deixar a vida me levar...
  </div>
 
+## Conhecimento em Programação (ainda em construção) :place_of_worship:
+<div align="justify">
+Tenho experiência com a linguagem de programação Javascript, com CSS e HTML e, no contexto do Front-end, com React. Além disso, tenho experiência com relação ao manejo do Github e dos comandos Git
+ </div>
 ## Coisas indispensáveis na minha vida :place_of_worship:
 
 <ul align="justify">
@@ -33,7 +37,7 @@
   </a>
 </div>
 
-#### Sigam-me quem quiser, e para aqueles que não o querem, sigam o que quiser! :brazil: :jp: 
+#### Sigam-me quem quiser e para aqueles que não o querem, que pelo menos sigam outra coisa... :brazil: :jp: 
  
  
  <div> 
